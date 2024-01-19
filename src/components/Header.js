@@ -1,6 +1,6 @@
 function Header() {
   return(
-    <div className="h-screen flex justify-center items-center bg-red-600">
+    <div id='top' className="h-screen flex justify-center items-center bg-red-600">
       Header
     </div>
   )
