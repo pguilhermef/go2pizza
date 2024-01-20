@@ -1,8 +1,8 @@
-import Differencial from '@/components/Differencial'
-import Footer from '@/components/Footer'
-import Forms from '@/components/Forms'
-import Header from '@/components/Header'
-import Impression from '@/components/Impression'
+import Differencial from './sections/Differencial'
+import Footer from './sections/Footer'
+import Forms from './sections/Forms'
+import Header from './sections/Header'
+import Impression from './sections/Impression'
 
 export default function Home() {
   return (
