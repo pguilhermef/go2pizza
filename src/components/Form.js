@@ -48,6 +48,10 @@ const Form = () => {
         type="text"
         className="w-full px-3 py-2 mb-4 border rounded-full focus:outline-none focus:border-2 border-red-700 transition-all duration-300"
       />
+
+      <div className="w-full mt-5 bg-red-600 px-5 py-5 rounded-full text-center text-white font-extrabold text-2xl">
+            QUERO SER UM FRANQUEADO
+      </div>
     </div>
   );
 };
