@@ -2,10 +2,10 @@ import Form from "@/components/Form"
 
 function Forms() {
   return(
-    <div className="min-h-screen flex items-center justify-center bg-slate-100">
+    <div className="min-h-screen min-w-screen flex items-center justify-center bg-slate-100">
       <div className="flex-col items-center justify-center">
         <div className="flex-col justify-center items-center">
-          <div className="flex justify-center items-center text-red-600 text-7xl sm:text-8xl mb-4">
+          <div className="flex justify-center items-center text-red-600 text-5xl sm:text-7xl md:text-8xl mb-4 mx-2 font-goToPizza font-bold">
             A Go2Pizza
           </div>
           <div className="text-center mx-4 sm:mx-12 sm:text-2xl sm:max-w-[80vh]">

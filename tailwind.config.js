@@ -17,6 +17,9 @@ module.exports = {
           'yellow': '#eeb95e'
         }
       },
+      fontFamily: {
+        'goToPizza': ['Poppins'],
+      },
     },
   },
   plugins: [],
