@@ -1,7 +1,7 @@
 function Differencial() {
   return(
-    <div className="h-2 flex justify-center items-center bg-red-600">
-      Differencial
+    <div className="h-20 flex justify-center items-center bg-red-600">
+      Aqui vai a parte do que nos diferencia
     </div>
   )
 }

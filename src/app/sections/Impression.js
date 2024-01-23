@@ -1,7 +1,7 @@
 function Impression() {
   return(
-    <div className="h-2 flex justify-center items-center bg-yellow-600">
-      Impression
+    <div className="h-20 flex justify-center items-center bg-yellow-600">
+      Aqui vai a seção de primeiras impressões
     </div>
   )
 }
