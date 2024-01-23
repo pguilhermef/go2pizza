@@ -5,7 +5,7 @@ import Image from "next/image";
 function Forms() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-slate-100">
-      <div className="w-full max-w-3xl mx-auto mb-8">
+      <div className="w-full max-w-4xl mx-auto mb-8">
         <Image src={Pizzas} />
       </div>
       <div className="flex flex-col items-center justify-center ">
