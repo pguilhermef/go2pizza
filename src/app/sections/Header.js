@@ -4,8 +4,8 @@ import logoPizzaHeader from '@/images/logo_pizza_header.png'
 
 function Header() {
   return(
-    <div id='top' className="flex justify-center items-center h-40 sm:h-52 lg:h-64 bg-yellow-600">
-      <div className="bg-red-600 flex justify-center items-center lg:justify-end lg:pr-10 w-2/6 lg:w-7/12 h-full">
+    <div id='top' className="flex justify-center items-center h-40 sm:h-52 lg:h-64 bg-white">
+      <div className="bg-red-600 flex justify-center items-center lg:justify-end lg:pr-10 w-2/6 lg:w-7/12 h-full rounded-tr-2xl">
         <Image className="p-3 sm:p-4 w-full max-w-[15rem]" src={ logoPizzaHeader }/>
       </div>
       <div className="w-4/6 h-full flex-col justify-center items-center">
