@@ -13,10 +13,10 @@ function Header() {
           A SUA <br/> OPORTUNIDADE <br/> DE SER UM
         </div>
         <div className="flex-col h-1/2">
-          <div className="flex items-center bg-red-600 text-yellow-500 font-goToPizza font-bold text-4xl md:text-5xl lg:text-[4.2rem] p-5 h-1/2">
+          <div className="flex items-center pb-2 md:pb-5 bg-red-600 text-yellow-500 font-goToPizza font-bold text-[1.8rem] md:text-5xl lg:text-[4.2rem] p-5 h-1/2">
             FRANQUEADO
           </div>
-          <div className="flex items-center bg-red-600 font-goToPizza font-bold text-[2.4rem] md:text-[3.3rem] lg:text-7xl p-5 h-1/2">
+          <div className="flex items-center bg-red-600 font-goToPizza font-bold text-[1.9rem] md:text-[3.3rem] lg:text-7xl p-5 h-1/2">
             DE SUCESSO!
           </div>
         </div>
