@@ -6,7 +6,7 @@ import Image from "next/image"
 function Impression() {
   return(
     <div className="min-h-[90vh] flex-col justify-center items-center bg-white text-black">
-      <div className="bg-white flex-col min-h-1/6 w-full text-black px-8 py-10">
+      <div className="bg-white flex-col justify-center items-center min-h-1/6 max-w-3xl m-auto text-black px-8 py-10">
         <div className='flex justify-start'>
           <div className="flex mb-4">
             A Go2Pizza, inicialmente concebida para atender às demandas do mercado corporativo B2B, está agora pronta para conquistar o mercado B2C.
@@ -18,11 +18,11 @@ function Impression() {
       </div>
 
 
-      <div className='max-h-3/6'>
-        <Image src={ pizzaImpression} />
+      <div className='max-h-3/6 max-w-3xl m-auto'>
+        <Image src={ pizzaImpression} className='m-auto' />
       </div>
 
-      <div className='flex-col sm:flex-row flex justify-center items-center w-full h-auto px-8 py-10'>
+      <div className='flex-col sm:flex-row flex justify-center items-center max-w-4xl h-auto px-8 py-10 m-auto'>
         <div className='sm:w-4/6 p-4 flex-col'>
           <div className='mb-3'>
             Estamos construindo um novo modelo de negócio, eficiente e inovador, projetado para se destacar como o delivery mais rápido do mercado de pizzas
