@@ -9,7 +9,7 @@ function Forms() {
         <Image src={Pizzas} />
       </div>
       <div className="flex flex-col items-center justify-center ">
-        <div className="text-red-600 text-5xl sm:text-7xl md:text-8xl mb-4 font-goToPizza font-bold">
+        <div className="text-red-600 text-5xl sm:text-7xl md:text-8xl mb-4 font-go2Pizza font-bold">
           A Go2Pizza
         </div>
         <div className="mx-4 sm:mx-12 text-md sm:text-2xl max-w-3xl">
