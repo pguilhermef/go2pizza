@@ -1,7 +1,6 @@
+import Image from "next/image"
 import pizzaImpression from '@/images/pizza_impression.jpg'
 import pizzaTrabalhador from '@/images/pizza_trabalhador.jpg'
-
-import Image from "next/image"
 
 function Impression() {
   return(
@@ -23,7 +22,7 @@ function Impression() {
       </div>
 
       <div className='flex-col sm:flex-row flex justify-center items-center max-w-4xl h-auto px-8 py-10 m-auto'>
-        <div className='sm:w-4/6 p-4 flex-col'>
+        <div className='sm:w-4/6 px-4 pb-8 flex-col'>
           <div className='mb-3'>
             Estamos construindo um novo modelo de negócio, eficiente e inovador, projetado para se destacar como o delivery mais rápido do mercado de pizzas
           </div>
@@ -33,7 +32,7 @@ function Impression() {
         </div>
 
         <div className='flex min-h-w-2/6'>
-          <Image src={pizzaTrabalhador} className='rounded-xl max-w-80'/>
+          <Image src={pizzaTrabalhador} className='rounded-3xl max-w-80'/>
         </div>
       </div>
     </div>
