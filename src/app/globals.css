@@ -32,24 +32,6 @@ body {
   filter: invert(100%);
 }
 
-.go1 {
-  position: absolute;
-  top: 100px;
-  left: 10px;
-}
-
-.go2 {
-  position: absolute;
-  top: 110px;
-  left: 10px;
-}
-
-.go3 {
-  position: absolute;
-  top: 101px;
-  left: 10px;
-}
-
 .text-stroke {
   color: #f1f5f9;
   -webkit-text-stroke: 1px red;

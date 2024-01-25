@@ -14,7 +14,7 @@ const Card = ({ image, text }) => {
           className="invert"
         />
       </div>
-      <p className="px-4 text-center sm:text-left">{text}</p>
+      <p className="px-4 m-3 text-center sm:text-left">{text}</p>
     </div>
   );
 };

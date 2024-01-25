@@ -74,7 +74,7 @@ function Differencial() {
         </div>
 
         <div className='flex flex-col p-2 justify-between'>
-          <div className='flex flex-col mt-1 font-go2Pizza font-extrabold text-6xl md:text-8xl'>
+          <div className='flex flex-col mt-1 sm:ml-4 mb-4 font-go2Pizza font-extrabold text-6xl md:text-8xl text-center sm:text-left'>
             <span className='text-red-600 text-stroke'>
               GO2PIZZA
             </span>
