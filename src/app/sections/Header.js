@@ -4,12 +4,12 @@ import logoPizzaHeader from '@/images/logo_pizza_header.png'
 
 function Header() {
   return(
-    <div id='top' className="flex justify-center items-center h-40 sm:h-52 lg:h-64 bg-white">
+    <div id='top' className="flex justify-center items-center h-40 sm:h-52 lg:h-64 bg-slate-100">
       <div className="bg-red-600 flex justify-center items-center lg:justify-end lg:pr-10 w-2/6 lg:w-7/12 h-full rounded-tr-2xl">
         <Image className="p-3 sm:p-4 w-full max-w-[15rem]" src={ logoPizzaHeader }/>
       </div>
       <div className="w-4/6 h-full flex-col justify-center items-center">
-        <div className="flex bg-white items-center font-goToPizza font-bold text-2xl sm:text-3xl lg:text-[3rem] pl-5 h-1/2 text-red-600 leading-6 lg:leading-[2.75rem] xl:leading-10">
+        <div className="flex bg-slate-100 items-center font-goToPizza font-bold text-2xl sm:text-3xl lg:text-[3rem] pl-5 h-1/2 text-red-600 leading-6 lg:leading-[2.75rem] xl:leading-10">
           A SUA <br/> OPORTUNIDADE <br/> DE SER UM
         </div>
         <div className="flex-col h-1/2">
