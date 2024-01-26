@@ -19,25 +19,24 @@ const cardsData = [
   {
     id: 2,
     image: delivery_truck,
-    text: 'Delivery projetado para ser o mais rápido do mercado de pizzas',
+    text: 'Delivery projetado para ser o mais rápido do mercado de pizzas.',
   },
   {
     id: 3,
     image: cogwheel,
-    text: 'Operação simples, eficiente e rápida, sem a necessidade de mão-de-obra especializada',
+    text: 'Operação simples, eficiente e rápida, sem a necessidade de mão-de-obra especializada.',
   },
   {
     id: 4,
     image: delivery_costumer,
-    text: 'Operação com foco na qualidade e na excelência do atendimento ao consumidor',
+    text: 'Operação com foco na qualidade e na excelência do atendimento ao consumidor.',
   },
 ];
 
 const yellowCardData = {
   image: quality,
-  text: 'Uma proposta financeira atraente e com baixo custo de investimento.',
+  text: 'Não é necessário ter experiência prévia no mercado de alimentação Nós cuidamos de todos os detalhes para que você possa operar com confiança desde o primeiro dia',
 }
-
 
 function Differencial() {
   return (
@@ -47,7 +46,7 @@ function Differencial() {
         <div className="h-4/6 text-5xl lg:text-7xl font-bold">DIFERENCIA?</div>
       </div>
 
-      <div className="grid grid-cols-2 grid-rows-2 gap-4 justify-center items-center p-4 bg-slate-100 max-w-4xl m-auto">
+      <div className="grid grid-cols-2 grid-rows-2 gap-3 justify-center items-center p-4 bg-slate-100 max-w-4xl m-auto">
         {cardsData.map((card) => (
           <Card key={card.id} image={card.image} text={card.text}/>
         ))}
