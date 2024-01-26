@@ -28,7 +28,7 @@ const Form = () => {
       <form
         className="flex-col justify-center items-center w-full max-w-full mb-8 mt-2 mx-4 text-black"
         method="POST"
-        action="https://formsubmit.co/pguilhermesanttos@gmail.com"
+        action="https://formsubmit.co/contato@mbebfranquias.com.br"
       >
         <label htmlFor="nome" className="block mb-2 text-sm font-bold text-red-600">
           Nome*:
