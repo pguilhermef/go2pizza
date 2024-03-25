@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MBeb Franquias de Pizzarias
 
-## Getting Started
+Esta é uma Landing Page dinâmica e envolvente desenvolvida para um cliente que busca expandir sua rede de franquias de pizzarias. Projetada meticulosamente para atrair e cativar potenciais franqueados e clientes, nossa página apresenta uma combinação de design moderno, funcionalidades interativas e conteúdo persuasivo.
 
-First, run the development server:
+## Recursos Principais
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Design Atraente:** Apresentação visualmente atraente dos produtos e da marca, com foco na experiência do usuário.
+- **Informações Relevantes:** Detalhes sobre o modelo de negócios, vantagens de se tornar um franqueado e diferenciais da marca.
+- **Interação Intuitiva:** Funcionalidades interativas para envolver os visitantes e incentivá-los a explorar mais profundamente.
+- **Conversão Eficaz:** Estratégias de design e conteúdo para converter visitantes em interessados e potenciais franqueados.
+- **Responsividade:** Compatibilidade com dispositivos móveis para uma experiência consistente em diferentes plataformas.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contato
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Para mais informações sobre este projeto, entre em contato:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Email: [pguilhermesanttos@gmail.com](mailto:pguilhermesanttos@gmail.com)
+- Website: [pguilhermef.com](https://pguilherme-portfolio.vercel.app/)
+- LinkedIn: [linkedin.com/in/pguilhermef](https://www.linkedin.com/in/pguilhermef)
 
-## Learn More
+Obrigado pela visita e leitura!
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
